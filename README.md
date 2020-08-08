@@ -4,7 +4,7 @@
 
 ### `👋🏼 Hi there..`
 
-Welcome to my GitHub :octocat: profile. I am [Olaf Wrieden](https://www.linkedin.com/in/olafwrieden), a **#software-engineer** and **#startup-guru**. I translate nebulous ideas into innovative and globally impactful solutions.
+Welcome to my GitHub :octocat: profile. I am [Chingun Erdene-Ochir](https://www.linkedin.com/in/jhingun1), a **#software-engineer** and **#Chingun**. I translate nebulous ideas into innovative and globally impactful solutions.
 
 Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `Entrepreneurship` `Great Ideas`
 
