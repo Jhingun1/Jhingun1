@@ -2,7 +2,7 @@
 
 ### `👋🏼 Hi there..`
 
-Welcome to my GitHub :octocat: profile. I am [Chingun Erdene-Ochir](https://www.linkedin.com/in/jhingun1), a **#software-engineer** and **#Chingun**. I translate nebulous ideas into innovative and globally impactful solutions.
+Welcome to my GitHub :octocat: profile. I am [Chingun Erdene-Ochir](https://www.linkedin.com/in/jhingun1), a **#Software-Engineer** and **#Designer**. I translate nebulous ideas into innovative and globally impactful solutions.
 
 Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `Entrepreneurship` `Great Ideas`
 
@@ -20,7 +20,7 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 <p>
 
 ```javascript
-const olaf = {
+const Chingun = {
   pronouns: "he" | "his",
   code: [JavaScript, TypeScript, Java, Python, C],
   tools: [React, Node, Jest, Docker, GitHub, Azure, GCP],
