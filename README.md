@@ -1,6 +1,6 @@
 ![Banner](Chingun.png)
 
-[![Linkedin: Jhingun1](linkedin1.png)](https://www.linkedin.com/in/jhingun1/)
+[![Linkedin: Jhingun1](images.png)](https://www.linkedin.com/in/jhingun1/)
 
 ### `👋🏼 Hi there..`
 
