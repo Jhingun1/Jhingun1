@@ -1,4 +1,4 @@
-![Banner](Chingun.png)
+![Banner](Chingun1.png)
 
 ### `👋🏼 Hi there..`
 
