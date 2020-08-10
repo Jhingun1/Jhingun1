@@ -1,4 +1,4 @@
-![Banner](https://raw.github.com/jhingun1/jhingun1/Hi, I am chingun.png)
+![Banner](https://raw.github.com/jhingun1/jhingun1/Chingun.png)
 
 [![Linkedin: Jhingun1](https://img.shields.io/badge/-olafwrieden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhingun1/)](https://www.linkedin.com/in/jhingun1/)
 
