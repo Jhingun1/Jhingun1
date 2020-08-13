@@ -1,6 +1,6 @@
 ![Banner](https://raw.github.com/jhingun1/jhingun1/master/Chingun1.png)
 
-### `👋🏼 Hi there!!! Add me on Linkedin`[<img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-700x394.png" width="100" height="50"/>](https://linkedin.com/in/jhingun1)
+### `👋🏼 Hi there!!! Add me on [Linkedin](https://linkedin.com/in/jhingun1)`
 
 Welcome to my GitHub :octocat: profile. I am [Chingun Erdene-Ochir](https://www.linkedin.com/in/jhingun1), a **#Software-Engineer** and **#Designer**. I translate nebulous ideas into innovative and globally impactful solutions.
 
