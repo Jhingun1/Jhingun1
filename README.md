@@ -27,7 +27,7 @@ const Chingun = {
   architecture: ["microservices", "event-driven", "layered"],
   techCommunities: {
     coorganizer: "Microsoft Hackathon 2020",
-    speaker: "SeniorNet New Zealand",
+    speaker: "Startcon", "Sydney Cocoaheads"
     mentor: ["Student Peer Mentor", "Local Hackathon(s) Mentor"],
   },
   challenge: "This year, I want to launch a SaaS app, learn Deno, understand production monitoring KPIs.. and graduate from university.",
