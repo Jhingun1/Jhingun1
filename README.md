@@ -1,4 +1,4 @@
-![Banner](Chingun1.png)
+![Banner](https://raw.github.com/jhingun1/jhingun1/master/Chingun1.png)
 
 ### `👋🏼 Hi there..`[<img src="https://simpleicons.org/icons/github.svg" width="24" height="24"/>](https://github.com/jhingun1)[<img src="https://simpleicons.org/icons/linkedin.svg" width="24" height="24"/>](https://linkedin.com/in/jhingun1)
 
