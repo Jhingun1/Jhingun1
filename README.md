@@ -47,7 +47,7 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 </p>
 <p>
 
-#### 💵 Finappster
+####  💵 Finappster
 
 
 <a href="https://www.finappster.co.nz">
