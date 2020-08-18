@@ -30,7 +30,7 @@ const Chingun = {
     speaker: "Startcon", "Sydney Cocoaheads"
     mentor: ["Student Peer Mentor", "Local Hackathon(s) Mentor"],
   },
-  challenge: "This year, I want to launch a SaaS app, learn Deno, understand production monitoring KPIs.. and graduate from university.",
+  challenge: "This year, I want to launch a SaaS app, learn iOS, and understand production monitoring KPIs.",
 };
 ```
 
