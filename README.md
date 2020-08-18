@@ -68,7 +68,3 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 Have you ever wondered if Test-Driven Development actually improves code quality? There is a lot of evidence documented in research papers but this is unavailable to many commercial software engineers because it is behind a paywall, is written in unfamiliar academic language, and requires high effort to find the trends. With [SEER](https://seer-repo.herokuapp.com), you to browse a list of empirical research articles via a simple search for "TDD" and "Code Quality", then view summaries of each evidence related to the study, its measures and the results.
 
 </p>
-</details>
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
