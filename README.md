@@ -8,7 +8,7 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 
 #### University and Work
 
-🎓 Statistics and Data Science MicroMasters Student @ [MIT](https://www.mit.edu) (Dec 2020)  
+🎓 Statistics and Data Science MicroMasters Student @ [MIT](https://www.mit.edu) (Dec 2019)  
 👨🏼‍💻 Software Engineer and CEO @ [Datazaps](https://github.com/microsoft)  
 🦉 Lead Software Engineer @ [Consensys](https://github.com/save-nemo-org)
 
