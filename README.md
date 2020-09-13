@@ -21,7 +21,6 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 
 ```javascript
 const Chingun = {
-  pronouns: "he" | "his",
   code: [JavaScript, TypeScript, Swift, Python, C],
   tools: [React, Node, Jest, Docker, GitHub, Azure, GCP],
   architecture: ["microservices", "event-driven", "layered"],
