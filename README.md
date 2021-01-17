@@ -46,14 +46,14 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 </p>
 <p>
 
-####  💵 Finappster
+####  💵 BDXworld
 
 
-<a href="https://www.finappster.co.nz">
-	<img align="left" src="https://raw.github.com/olafwrieden/olafwrieden/master/images/finappster.png" width="300">
+<a href="https://www.bdxworld.com/">
+	<img align="left" src="https://www.behance.net/gallery/94709207/Big-Data-Exchange-%28BDX%29" width="300">
 </a>
 
-[Finappster](https://www.finappster.co.nz) is a New Zealand fintech startup that aims to provide retail investors with strategic value-aligned investment insight and greater investment transparency. It facilitates the ease of understanding as to how socially responsible individual funds are. Responsible Investing (also known as socially responsible investing, ethical investing, and impact investing) has become a large focus in recent years. I am working with the organisation and a development team to architect a new and innovative microservice used on the backend.
+[BDXworld](https://www.bdxworld.com/) is a New Zealand fintech startup that aims to provide retail investors with strategic value-aligned investment insight and greater investment transparency. It facilitates the ease of understanding as to how socially responsible individual funds are. Responsible Investing (also known as socially responsible investing, ethical investing, and impact investing) has become a large focus in recent years. I am working with the organisation and a development team to architect a new and innovative microservice used on the backend.
 
 </p>
 <p>
