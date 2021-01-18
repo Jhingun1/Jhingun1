@@ -38,7 +38,7 @@ const Chingun = {
 #### 🌏 Nemo Cloud
 
 <a href="https://nemo-pi.com">
-    <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/yga.png" width="300">
+    <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/YGA.png" width="300">
 </a>
 
 At Save Nemo, the team builds and deploys affordable, self-sustaining mooring buoys in coastal regions worst affected by climate change. These buoys include sensors up and down the mooring to collect data in near-real time and ping the telemetry back via cellular uplink. [Nemo Cloud](https://nemo-pi.com) is the dashboard where our IoT data is made available for monitoring. For our solution we won the Google Social Impact Challenge 2018 and were placed 23rd / 2600 applicants at the Google AI for Social Good Challenge.
@@ -61,7 +61,7 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 #### 🔍 SEER
 
 <a href="https://seer-repo.herokuapp.com">
-	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/alkalife.png" width="300">
+	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Alkalife.png" width="300">
 </a>
 
 Have you ever wondered if Test-Driven Development actually improves code quality? There is a lot of evidence documented in research papers but this is unavailable to many commercial software engineers because it is behind a paywall, is written in unfamiliar academic language, and requires high effort to find the trends. With [SEER](https://seer-repo.herokuapp.com), you to browse a list of empirical research articles via a simple search for "TDD" and "Code Quality", then view summaries of each evidence related to the study, its measures and the results.
