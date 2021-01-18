@@ -35,9 +35,9 @@ const Chingun = {
 
 #### Recent Projects
 
-#### 🌏 Nemo Cloud
+#### 🌏 Young Growth Academy
 
-<a href="https://nemo-pi.com">
+<a href="https://www.younggrowth.academy">
     <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/YGA.png" width="300">
 </a>
 
@@ -60,7 +60,7 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 
 #### 🔍 SEER
 
-<a href="https://seer-repo.herokuapp.com">
+<a href="https://www.alkalife.com.au">
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Alkalife.png" width="300">
 </a>
 
