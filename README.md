@@ -58,7 +58,7 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 </p>
 <p>
 
-#### 🔍 SEER
+#### 🔍 Alkalife
 
 <a href="https://www.alkalife.com.au">
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Alkalife.png" width="300">
