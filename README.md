@@ -40,7 +40,7 @@ const Chingun = {
 <a href="https://www.younggrowth.academy">
     <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/YGA.png" width="300">
 </a>
-I built the web app for [YoungGrowthAcademy](https://www.younggrowth.com) which is a tuition centre located in Penrith CBD, teaching Mathematics, English and Science (Junior Science, Biology, Chemistry, Physics) from Years 1 to Year 12. Their inspiring team of teachers help students to focus and excel within the class and take their skills to other domains within society. The underlying value they deliver is in the student’s unparalleled development outside the classroom. 
+I built the web app for [YoungGrowthAcademy](https://www.younggrowth.com) [Linkedin](https://www.linkedin.com/in/jhingun1)which is a tuition centre located in Penrith CBD, teaching Mathematics, English and Science (Junior Science, Biology, Chemistry, Physics) from Years 1 to Year 12. Their inspiring team of teachers help students to focus and excel within the class and take their skills to other domains within society. The underlying value they deliver is in the student’s unparalleled development outside the classroom. 
 </p>
 <p>
 
