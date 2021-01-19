@@ -46,7 +46,6 @@ I built the web app for Young Growth Academy which is a tuition centre located i
 
 ####  💵 BDXworld
 
-
 <a href="https://www.bdxworld.com/">
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/bdxworld.png" width="300">
 </a>
