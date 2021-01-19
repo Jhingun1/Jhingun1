@@ -40,8 +40,7 @@ const Chingun = {
 <a href="https://www.younggrowth.academy">
     <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/YGA.png" width="300">
 </a>
-
-At Save Nemo, the team builds and deploys affordable, self-sustaining mooring buoys in coastal regions worst affected by climate change. These buoys include sensors up and down the mooring to collect data in near-real time and ping the telemetry back via cellular uplink. [Nemo Cloud](https://nemo-pi.com) is the dashboard where our IoT data is made available for monitoring. For our solution we won the Google Social Impact Challenge 2018 and were placed 23rd / 2600 applicants at the Google AI for Social Good Challenge.
+I built the front end for [Young Growth Academy](https://www.younggrowth.academy) which is a tuition centre located in Penrith CBD, teaching Mathematics, English and Science (Junior Science, Biology, Chemistry, Physics) from Years 1 to Year 12. Their inspiring team of teachers help students to focus and excel within the class and take their skills to other domains within society. The underlying value they deliver is in the student’s unparalleled development outside the classroom. 
 
 </p>
 <p>
