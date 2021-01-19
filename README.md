@@ -64,5 +64,13 @@ With data centers located in Hong Kong, Guangzhou, Nanjing, and Singapore, they 
 </a>
 
 [Alkalife](https://www.alkalife.com.au)
+In 2002 we set out to fill a gap in the market by providing a natural mineral water for everyday drinking. Our beginnings were slow until one fateful day we received a phone call from a customer named Barbara that changed our trajectory forever. 
+‍
+Barbara had been suffering from gout and was ecstatic that since drinking alkalife the swelling in her foot had subsided. Puzzled and skeptical, we met Barbara in her home to investigate this unusual phenomenon. 
+‍
+Ever since, we have received countless other stories reporting health benefits for reflux to eczema to joint pain. We set out to learn why our water appeared to be having these effects. We discovered that naturally alkaline mineral water has been used to heal the body for centuries. Armed with our new found knowledge and customers’ incredible experiences we’re now on a mission to share our amazing water with the world.
+‍
+alkalife is a 100% Australian family owned and operated business that’s passionate about natural health and minimising our carbon footprint. alkalife is committed to supporting our local economy and minimising our emissions by offering returnable 15L bottles and sourcing 100% of our raw materials from local businesses.
+
 
 </p>
