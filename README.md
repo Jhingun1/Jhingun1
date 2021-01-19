@@ -40,7 +40,7 @@ const Chingun = {
 <a href="https://www.younggrowth.academy">
     <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/YGA.png" width="300">
 </a>
-I built the front end for [Young Growth Academy](https://www.younggrowth.academy) which is a tuition centre located in Penrith CBD, teaching Mathematics, English and Science (Junior Science, Biology, Chemistry, Physics) from Years 1 to Year 12. Their inspiring team of teachers help students to focus and excel within the class and take their skills to other domains within society. The underlying value they deliver is in the student’s unparalleled development outside the classroom. 
+I built the web app for [Young Growth Academy](https://www.younggrowth.academy) which is a tuition centre located in Penrith CBD, teaching Mathematics, English and Science (Junior Science, Biology, Chemistry, Physics) from Years 1 to Year 12. Their inspiring team of teachers help students to focus and excel within the class and take their skills to other domains within society. The underlying value they deliver is in the student’s unparalleled development outside the classroom. 
 
 </p>
 <p>
@@ -52,7 +52,8 @@ I built the front end for [Young Growth Academy](https://www.younggrowth.academy
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/bdxworld.png" width="300">
 </a>
 
-[BDXworld](https://www.bdxworld.com/) is a New Zealand fintech startup that aims to provide retail investors with strategic value-aligned investment insight and greater investment transparency. It facilitates the ease of understanding as to how socially responsible individual funds are. Responsible Investing (also known as socially responsible investing, ethical investing, and impact investing) has become a large focus in recent years. I am working with the organisation and a development team to architect a new and innovative microservice used on the backend.
+[BDXworld](https://www.bdxworld.com/) is a neutral, Pan Asian data center cluster, providing a protective cocoon over your physical and virtual infrastructure. 
+With data centers located in Hong Kong, Guangzhou, Nanjing, and Singapore, they provide security, disaster recovery services, and telco connectivity into public clouds as well as third-party data centers — over Telco providers you select. It's their mission to deliver world class ease of operations in monitoring and managing hybrid ecosystems. They're here to protect your IT investments across Asia.
 
 </p>
 <p>
@@ -63,6 +64,6 @@ I built the front end for [Young Growth Academy](https://www.younggrowth.academy
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Alkalife.png" width="300">
 </a>
 
-Have you ever wondered if Test-Driven Development actually improves code quality? There is a lot of evidence documented in research papers but this is unavailable to many commercial software engineers because it is behind a paywall, is written in unfamiliar academic language, and requires high effort to find the trends. With [SEER](https://seer-repo.herokuapp.com), you to browse a list of empirical research articles via a simple search for "TDD" and "Code Quality", then view summaries of each evidence related to the study, its measures and the results.
+[Alkalife](https://www.alkalife.com.au)
 
 </p>
