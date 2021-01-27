@@ -71,5 +71,4 @@ Ever since, we have received countless other stories reporting health benefits f
 ‍
 alkalife is a 100% Australian family owned and operated business that’s passionate about natural health and minimising our carbon footprint. alkalife is committed to supporting our local economy and minimising our emissions by offering returnable 15L bottles and sourcing 100% of our raw materials from local businesses.
 
-
 </p>
