@@ -38,7 +38,7 @@ const Chingun = {
 #### 🌏 Tomyo Edtech
 
 <a href="https://tomyo.mn/">
-    <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/YGA.png" width="300">
+    <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Tomyo.png" width="300">
 </a>
 Tomyo Edtech is an educational technology company with a mission to enable world-class opportunities directly to the hands of developing nations’ youth. By Tomyo’s Platform, we empower both learners and educational content providers through our personalized recommendation engine making it easy to connect based on an individual's favorite medium of learning or teaching...
 </p>
@@ -47,7 +47,7 @@ Tomyo Edtech is an educational technology company with a mission to enable world
 ####  💵 Erxes.io
 
 <a href="https://www.bdxworld.com/">
-	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/bdxworld.png" width="300">
+	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Erxes.png" width="300">
 </a>
 
 [BDXworld](https://www.bdxworld.com/) is a neutral, Pan Asian data center cluster, providing a protective cocoon over your physical and virtual infrastructure. 
@@ -59,7 +59,7 @@ With data centers located in Hong Kong, Guangzhou, Nanjing, and Singapore, they 
 #### 🔍 LendMN
 
 <a href="https://www.alkalife.com.au">
-	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Alkalife.png" width="300">
+	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Lendmn.png" width="300">
 </a>
 
 [Alkalife](https://www.alkalife.com.au)
