@@ -37,10 +37,10 @@ const Chingun = {
 
 #### 🌏 Tomyo Edtech
 
-<a href="https://www.younggrowth.academy">
+<a href="https://tomyo.mn/">
     <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/YGA.png" width="300">
 </a>
-I built the web app for Young Growth Academy which is a tuition centre located in Penrith CBD, teaching Mathematics, English and Science (Junior Science, Biology, Chemistry, Physics) from Years 1 to Year 12. Their inspiring team of teachers help students to focus and excel within the class and take their skills to other domains within society. The underlying value they deliver is in the student’s unparalleled development outside the classroom. 
+Tomyo Edtech is an educational technology company with a mission to enable world-class opportunities directly to the hands of developing nations’ youth. By Tomyo’s Platform, we empower both learners and educational content providers through our personalized recommendation engine making it easy to connect based on an individual's favorite medium of learning or teaching...
 </p>
 <p>
 
