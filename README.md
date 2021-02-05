@@ -35,7 +35,7 @@ const Chingun = {
 
 #### Recent Projects
 
-#### 🌏 Young Growth Academy
+#### 🌏 Tomyo Edtech
 
 <a href="https://www.younggrowth.academy">
     <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/YGA.png" width="300">
@@ -44,7 +44,7 @@ I built the web app for Young Growth Academy which is a tuition centre located i
 </p>
 <p>
 
-####  💵 BDXworld
+####  💵 Erxes.io
 
 <a href="https://www.bdxworld.com/">
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/bdxworld.png" width="300">
@@ -56,7 +56,7 @@ With data centers located in Hong Kong, Guangzhou, Nanjing, and Singapore, they 
 </p>
 <p>
 
-#### 🔍 Alkalife
+#### 🔍 LendMN
 
 <a href="https://www.alkalife.com.au">
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Alkalife.png" width="300">
