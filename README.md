@@ -62,5 +62,5 @@ erxes is a free and open fair-code licensed all-in-one growth marketing and busi
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Lendmn.png" width="300">
 </a>
 
-[Alkalife](https://www.alkalife.com.au)LendMN нь хэрэглэгчийн өдөр тутмын санхүүгийн бүх асуудлыг гар утасны ганцхан товчоор шийддэг санхүүгийн технологи (Fintech) дээр суурилсан шийдэл юм.
+[Alkalife](https://www.alkalife.com.au)LendMN нь хэрэглэгчийн өдөр тутмын санхүүгийн бүх асуудлыг гар утасны ганцхан товчоор шийддэг санхүүгийн технологи (Fintech) дээр суурилсан шийдэл юм. k
 </p>
