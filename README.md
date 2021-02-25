@@ -52,15 +52,15 @@ Tomyo Edtech is an educational technology company with a mission to enable world
 
 [BDXworld](https://www.bdxworld.com/) Customers don’t see businesses as departments. But they can tell when a company’s employees are not on the same page. Also, you need to reach out to customers where they are. Besides, with many apps and tools popping up every day, businesses need to keep up. But it doesn’t have to be so hard or expensive.
 
-erxes is a free and open fair-code licensed all-in-one growth marketing and business management platform. erxes provides the freedom to use all your favorite tools from a single dashboard at an affordable price. The end result is a seamless and unified solution for the business and a smoother customer journey for the end-user.
+Erxes is a free and open fair-code licensed all-in-one growth marketing and business management platform. erxes provides the freedom to use all your favorite tools from a single dashboard at an affordable price. The end result is a seamless and unified solution for the business and a smoother customer journey for the end-user.
 </p>
 <p>
 
 #### 🔍 LendMN
 
-<a href="https://www.alkalife.com.au">
+<a href="https://www.lend.mn">
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Lendmn.png" width="300">
 </a>
 
-[Alkalife](https://www.alkalife.com.au)LendMN нь хэрэглэгчийн өдөр тутмын санхүүгийн бүх асуудлыг гар утасны ганцхан товчоор шийддэг санхүүгийн технологи (Fintech) дээр суурилсан шийдэл юм. 
+[Lendmn](https://www.lend.mn)LendMN нь хэрэглэгчийн өдөр тутмын санхүүгийн бүх асуудлыг гар утасны ганцхан товчоор шийддэг санхүүгийн технологи (Fintech) дээр суурилсан шийдэл юм. 
 </p>
