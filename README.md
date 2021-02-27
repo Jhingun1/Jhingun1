@@ -62,5 +62,5 @@ Erxes is a free and open fair-code licensed all-in-one growth marketing and busi
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Lendmn.png" width="300">
 </a>
 
-[Lendmn](https://www.lend.mn)LendMN нь хэрэглэгчийн өдөр тутмын санхүүгийн бүх асуудлыг гар утасны ганцхан товчоор шийддэг санхүүгийн технологи (Fintech) дээр суурилсан шийдэл юм. 
+[Lendmn](https://www.lend.mn)LendMN нь хэрэглэгчийн өдөр тутмын санхүүгийн бүх асуудлыг гар утасны ганцхан товчоор шийддэг санхүүгийн технологи (Fintech) дээр суурилсан шийдэл юм. f
 </p>
